@@ -8,3 +8,5 @@
 - Open up terminal and run "sudo crontab -e" <br/>
 - Choose an editor and type "@reboot /home/Scoring/Engine/main.py" <br/>
 - Restart the image and the engine should run
+
+Scoring Engine in use: https://www.youtube.com/watch?v=4fCvwMemyPA
